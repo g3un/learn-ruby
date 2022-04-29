@@ -2,7 +2,7 @@
 
 Logs while learning about Ruby. ([link](https://www.codecademy.com/learn/learn-ruby))
 
-- [ ] Introduction to Ruby
+- [x] [Introduction to Ruby](introduction-to-ruby.md)
 - [ ] Control Flow in Ruby
 - [ ] Looping with Ruby
 - [ ] Arrays and Hashes
