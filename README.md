@@ -1,6 +1,6 @@
 # Learn Ruby
 
-Logs while learning about Ruby. ([link](https://www.codecademy.com/learn/learn-ruby))
+Logs while learning Ruby. ([link](https://www.codecademy.com/learn/learn-ruby))
 
 - [x] [Introduction to Ruby](introduction-to-ruby.md)
 - [ ] Control Flow in Ruby
